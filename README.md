@@ -88,7 +88,8 @@ Verilog HDL compiler.
 
 # Output for Ripple carry adder
 
-![Screenshot 2024-11-12 211858](https://github.com/user-attachments/assets/53aea132-d252-46d6-97d9-74f55a93e6e0)
+![RRCA](https://github.com/user-attachments/assets/8bb9979d-438f-4fb4-a6b4-6c1ee9faf86e)
+
 
 
 # Verilog Code ripple counter
@@ -155,7 +156,7 @@ Verilog HDL compiler.
 
 # Output for Ripple Counter
 
-![Screenshot 2024-11-12 212437](https://github.com/user-attachments/assets/38b05429-8e3e-44d2-a36b-b5903f16aaa8)
+![RRC](https://github.com/user-attachments/assets/fd3c7ffa-83f4-4238-8d4c-0fe04459a932)
 
 
 # Conclusion:
